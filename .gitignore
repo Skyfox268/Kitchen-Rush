@@ -1,0 +1,8 @@
+
+# Ignorer les fichiers Python compilés et le cache généré par l'interpréteur
+__pycache__/
+*.py[cod]
+
+# Ignorer le cache genere par pytest lors des tests
+.pytest_cache/
+
